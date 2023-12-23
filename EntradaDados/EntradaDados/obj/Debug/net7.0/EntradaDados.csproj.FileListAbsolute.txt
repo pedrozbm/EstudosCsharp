@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\bin\Debug\net7.0\EntradaDados.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\bin\Debug\net7.0\EntradaDados.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\bin\Debug\net7.0\EntradaDados.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\bin\Debug\net7.0\EntradaDados.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\bin\Debug\net7.0\EntradaDados.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\obj\Debug\net7.0\EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\obj\Debug\net7.0\EntradaDados.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\obj\Debug\net7.0\EntradaDados.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\obj\Debug\net7.0\EntradaDados.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\obj\Debug\net7.0\EntradaDados.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\obj\Debug\net7.0\refint\EntradaDados.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\obj\Debug\net7.0\EntradaDados.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\obj\Debug\net7.0\EntradaDados.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\EntradaDados\EntradaDados\obj\Debug\net7.0\ref\EntradaDados.dll
