@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net7.0\OperadoresAtribuicao.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net7.0\refint\OperadoresAtribuicao.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net7.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net7.0\ref\OperadoresAtribuicao.dll
