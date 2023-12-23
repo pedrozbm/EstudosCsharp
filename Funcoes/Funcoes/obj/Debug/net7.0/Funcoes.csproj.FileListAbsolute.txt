@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\bin\Debug\net7.0\Funcoes.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\bin\Debug\net7.0\Funcoes.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\bin\Debug\net7.0\Funcoes.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\bin\Debug\net7.0\Funcoes.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\bin\Debug\net7.0\Funcoes.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\obj\Debug\net7.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\obj\Debug\net7.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\obj\Debug\net7.0\Funcoes.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\obj\Debug\net7.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\obj\Debug\net7.0\Funcoes.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\obj\Debug\net7.0\refint\Funcoes.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\obj\Debug\net7.0\Funcoes.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\obj\Debug\net7.0\Funcoes.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Funcoes\Funcoes\obj\Debug\net7.0\ref\Funcoes.dll

@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net7.0\ConversaoImplicitaCasting.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net7.0\ConversaoImplicitaCasting.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net7.0\ConversaoImplicitaCasting.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net7.0\ConversaoImplicitaCasting.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\net7.0\ConversaoImplicitaCasting.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net7.0\ConversaoImplicitaCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net7.0\ConversaoImplicitaCasting.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net7.0\ConversaoImplicitaCasting.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net7.0\ConversaoImplicitaCasting.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net7.0\ConversaoImplicitaCasting.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net7.0\refint\ConversaoImplicitaCasting.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net7.0\ConversaoImplicitaCasting.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net7.0\ConversaoImplicitaCasting.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\net7.0\ref\ConversaoImplicitaCasting.dll
