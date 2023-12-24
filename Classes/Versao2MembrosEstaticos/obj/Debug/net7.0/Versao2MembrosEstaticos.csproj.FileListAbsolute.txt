@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\bin\Debug\net7.0\Versao2MembrosEstaticos.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\bin\Debug\net7.0\Versao2MembrosEstaticos.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\bin\Debug\net7.0\Versao2MembrosEstaticos.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\bin\Debug\net7.0\Versao2MembrosEstaticos.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\bin\Debug\net7.0\Versao2MembrosEstaticos.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\obj\Debug\net7.0\Versao2MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\obj\Debug\net7.0\Versao2MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\obj\Debug\net7.0\Versao2MembrosEstaticos.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\obj\Debug\net7.0\Versao2MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\obj\Debug\net7.0\Versao2MembrosEstaticos.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\obj\Debug\net7.0\refint\Versao2MembrosEstaticos.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\obj\Debug\net7.0\Versao2MembrosEstaticos.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\obj\Debug\net7.0\Versao2MembrosEstaticos.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\Versao2MembrosEstaticos\obj\Debug\net7.0\ref\Versao2MembrosEstaticos.dll

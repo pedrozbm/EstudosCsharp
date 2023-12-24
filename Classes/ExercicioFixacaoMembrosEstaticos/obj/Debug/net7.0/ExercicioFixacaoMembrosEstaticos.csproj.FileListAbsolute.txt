@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\bin\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\bin\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\bin\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\bin\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\bin\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\obj\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\obj\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\obj\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\obj\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\obj\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\obj\Debug\net7.0\refint\ExercicioFixacaoMembrosEstaticos.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\obj\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\obj\Debug\net7.0\ExercicioFixacaoMembrosEstaticos.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Classes\ExercicioFixacaoMembrosEstaticos\obj\Debug\net7.0\ref\ExercicioFixacaoMembrosEstaticos.dll
