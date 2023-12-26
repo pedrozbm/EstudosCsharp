@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\bin\Debug\net7.0\Construtores.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\bin\Debug\net7.0\Construtores.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\bin\Debug\net7.0\Construtores.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\bin\Debug\net7.0\Construtores.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\bin\Debug\net7.0\Construtores.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\obj\Debug\net7.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\obj\Debug\net7.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\obj\Debug\net7.0\Construtores.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\obj\Debug\net7.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\obj\Debug\net7.0\Construtores.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\obj\Debug\net7.0\refint\Construtores.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\obj\Debug\net7.0\Construtores.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\obj\Debug\net7.0\Construtores.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\ConstrutoresSobrecargaEncapsulamento\ConstrutoresSobrecargaEncapsulamento\obj\Debug\net7.0\ref\Construtores.dll
