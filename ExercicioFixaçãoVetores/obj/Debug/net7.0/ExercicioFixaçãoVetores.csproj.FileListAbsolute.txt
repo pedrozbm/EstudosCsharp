@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\bin\Debug\net7.0\ExercicioFixaçãoVetores.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\bin\Debug\net7.0\ExercicioFixaçãoVetores.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\bin\Debug\net7.0\ExercicioFixaçãoVetores.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\bin\Debug\net7.0\ExercicioFixaçãoVetores.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\bin\Debug\net7.0\ExercicioFixaçãoVetores.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\obj\Debug\net7.0\ExercicioFixaçãoVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\obj\Debug\net7.0\ExercicioFixaçãoVetores.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\obj\Debug\net7.0\ExercicioFixaçãoVetores.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\obj\Debug\net7.0\ExercicioFixaçãoVetores.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\obj\Debug\net7.0\ExercicioFixaçãoVetores.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\obj\Debug\net7.0\refint\ExercicioFixaçãoVetores.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\obj\Debug\net7.0\ExercicioFixaçãoVetores.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\obj\Debug\net7.0\ExercicioFixaçãoVetores.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\ExercicioFixaçãoVetores\obj\Debug\net7.0\ref\ExercicioFixaçãoVetores.dll
