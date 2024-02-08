@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\bin\Debug\net7.0\Exemplo2.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\bin\Debug\net7.0\Exemplo2.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\bin\Debug\net7.0\Exemplo2.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\bin\Debug\net7.0\Exemplo2.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\bin\Debug\net7.0\Exemplo2.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\obj\Debug\net7.0\Exemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\obj\Debug\net7.0\Exemplo2.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\obj\Debug\net7.0\Exemplo2.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\obj\Debug\net7.0\Exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\obj\Debug\net7.0\Exemplo2.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\obj\Debug\net7.0\refint\Exemplo2.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\obj\Debug\net7.0\Exemplo2.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\obj\Debug\net7.0\Exemplo2.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\Vetores\Exemplo2\obj\Debug\net7.0\ref\Exemplo2.dll
