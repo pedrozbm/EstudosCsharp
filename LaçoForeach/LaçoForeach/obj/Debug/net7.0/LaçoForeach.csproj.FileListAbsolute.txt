@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\bin\Debug\net7.0\LaçoForeach.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\bin\Debug\net7.0\LaçoForeach.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\bin\Debug\net7.0\LaçoForeach.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\bin\Debug\net7.0\LaçoForeach.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\bin\Debug\net7.0\LaçoForeach.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\obj\Debug\net7.0\LaçoForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\obj\Debug\net7.0\LaçoForeach.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\obj\Debug\net7.0\LaçoForeach.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\obj\Debug\net7.0\LaçoForeach.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\obj\Debug\net7.0\LaçoForeach.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\obj\Debug\net7.0\refint\LaçoForeach.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\obj\Debug\net7.0\LaçoForeach.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\obj\Debug\net7.0\LaçoForeach.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\LaçoForeach\LaçoForeach\obj\Debug\net7.0\ref\LaçoForeach.dll
