@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrizes", "Matrizes\Matrizes.csproj", "{D54B60BA-D86E-4861-B158-62E9EF0FA1D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMatrizes", "ExercicioMatrizes\ExercicioMatrizes.csproj", "{601452D4-05EB-4B41-9667-EB8CBE6007D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D54B60BA-D86E-4861-B158-62E9EF0FA1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54B60BA-D86E-4861-B158-62E9EF0FA1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54B60BA-D86E-4861-B158-62E9EF0FA1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54B60BA-D86E-4861-B158-62E9EF0FA1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601452D4-05EB-4B41-9667-EB8CBE6007D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601452D4-05EB-4B41-9667-EB8CBE6007D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601452D4-05EB-4B41-9667-EB8CBE6007D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601452D4-05EB-4B41-9667-EB8CBE6007D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22F2122C-3C66-41CF-B164-76FC81D4DC50}
+	EndGlobalSection
+EndGlobal
