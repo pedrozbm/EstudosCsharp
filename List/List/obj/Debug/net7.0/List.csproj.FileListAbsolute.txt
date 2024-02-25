@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\bin\Debug\net7.0\List.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\bin\Debug\net7.0\List.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\bin\Debug\net7.0\List.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\bin\Debug\net7.0\List.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\bin\Debug\net7.0\List.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\obj\Debug\net7.0\List.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\obj\Debug\net7.0\List.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\obj\Debug\net7.0\refint\List.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\obj\Debug\net7.0\List.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\obj\Debug\net7.0\List.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\List\List\obj\Debug\net7.0\ref\List.dll

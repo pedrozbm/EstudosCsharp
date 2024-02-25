@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\bin\Debug\net7.0\ExercicioList.exe
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\bin\Debug\net7.0\ExercicioList.deps.json
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\bin\Debug\net7.0\ExercicioList.runtimeconfig.json
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\bin\Debug\net7.0\ExercicioList.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\bin\Debug\net7.0\ExercicioList.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\obj\Debug\net7.0\ExercicioList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\obj\Debug\net7.0\ExercicioList.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\obj\Debug\net7.0\ExercicioList.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\obj\Debug\net7.0\ExercicioList.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\obj\Debug\net7.0\ExercicioList.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\obj\Debug\net7.0\refint\ExercicioList.dll
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\obj\Debug\net7.0\ExercicioList.pdb
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\obj\Debug\net7.0\ExercicioList.genruntimeconfig.cache
+C:\Users\pedro\source\repos\ProjetosEstudo\List\ExercicioList\obj\Debug\net7.0\ref\ExercicioList.dll
